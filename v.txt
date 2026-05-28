@@ -1,9 +1,14 @@
-Germany 5
-ssh://alirezaab-vpnjantit.com:alirezaab@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205%20(Alireza)
-
+🇺🇸
 USA 12
 ssh://alirezaab-vpnjantit.com:alirezaab@usa12.vpnjz.com:81#%F0%9F%87%BA%F0%9F%87%B8%20USA%2012%20(Alireza)
 
-USA 12
-ssh://alirezaab-vpnjantit.com:alirezaab@usa13.vpnjz.com:81#%F0%9F%87%BA%F0%9F%87%B8%20USA%2013%20(Alireza)
+🇩🇪
+Germany 5
+ssh://alirezaab-vpnjantit.com:alirezaab@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205%20(Alireza)
 
+🇸🇬
+SG 2 freevpn.us
+ssh://freevpn.us-sg2:ssh-sg-2.vpnv.cc:443#SG%202%20freevpn.us
+
+SG 2 freevpn.us
+ssh://freevpn.us-sg2:ssh-sg-2.vpnv.cc:443#SG 2 freevpn.us
