@@ -11,7 +11,7 @@ ssh://ssm-vpnjantit.com:ssm@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%
 
 🇸🇬
 SG 2 freevpn.us
-ssh://freevpn.us-sg2:ssh-sg-2.vpnv.cc:443#SG%202%20freevpn.us
+ssh://freevpn.us-sg2:sg2@ssh-sg-2.vpnv.cc:443#SG%202%20freevpn.us
 
 SG 2 freevpn.us
-ssh://freevpn.us-sg2:ssh-sg-2.vpnv.cc:443#SG 2 freevpn.us
+ssh://freevpn.us-sg2:sg2@ssh-sg-2.vpnv.cc:443#SG 2 freevpn.us
