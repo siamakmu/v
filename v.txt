@@ -22,6 +22,13 @@ ssh://ssm-vpnjantit.com:ssm@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%
 Finland 2
 ssh://ssm-vpnjantit.com:ssm@fi2.vpnjz.com:81#🇫🇮%20Finland%202
 --------
+🇫🇷
+France 4
+ssh://ssm-vpnjantit.com:ssm@fr4.vpnjz.com:81#🇫🇷%20France%204
+
+France 5
+ssh://ssm-vpnjantit.com:ssm@fr5.vpnjz.com:81#🇫🇷%20France%205
+--------
 🇯🇵
 ssh://ssm-vpnjantit.com:ssm@premijp1.vpnjz.com:81#🇯🇵%20Japan%201%20Premium
 --------
