@@ -1,6 +1,6 @@
 🇺🇸
 USA 8
-ssh://ssm-vpnjantit.com:ssm@usa8.vpnjz.com:81#🇺🇸%20USA%209
+ssh://ssm-vpnjantit.com:ssm@usa8.vpnjz.com:81#🇺🇸%20USA%208
 
 USA 9
 ssh://ssm-vpnjantit.com:ssm@usa9.vpnjz.com:81#🇺🇸%20USA%209
@@ -28,6 +28,10 @@ ssh://ssm-vpnjantit.com:ssm@fr4.vpnjz.com:81#🇫🇷%20France%204
 
 France 5
 ssh://ssm-vpnjantit.com:ssm@fr5.vpnjz.com:81#🇫🇷%20France%205
+--------
+🇺🇦
+Ukraine 1
+ssh://ssm-vpnjantit.com:ssm@ua1.vpnjz.com:81#🇫🇷%20Ukraine%201
 --------
 🇯🇵
 ssh://ssm-vpnjantit.com:ssm@premijp1.vpnjz.com:81#🇯🇵%20Japan%201%20Premium
