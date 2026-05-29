@@ -8,8 +8,8 @@ ssh://ssm-vpnjantit.com:ssm@usa9.vpnjz.com:81#🇺🇸%20USA%209
 USA 12
 ssh://ssm-vpnjantit.com:ssm@usa12.vpnjz.com:81#🇺🇸%20USA%2012
 
-USA 2 Premium
-ssh://ssm-vpnjantit.com:ssm@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
+USA 1 Premium
+ssh://ssm-vpnjantit.com:ssm@premiusa1.vpnjz.com:81#🇺🇸%20USA%201%20Premium
 
 USA 2 Premium
 ssh://ssm-vpnjantit.com:ssm@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
