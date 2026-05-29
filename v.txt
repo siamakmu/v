@@ -6,7 +6,7 @@ USA 9
 ssh://ssm-vpnjantit.com:ssm@usa9.vpnjz.com:81#🇺🇸%20USA%209
 
 USA 12
-ssh://alirezaab-vpnjantit.com:alirezaab@usa12.vpnjz.com:81#%F0%9F%87%BA%F0%9F%87%B8%20USA%2012%20(Alireza)
+ssh://ssm-vpnjantit.com:ssm@usa12.vpnjz.com:81#🇺🇸%20USA%2012
 
 USA 2 Premium
 ssh://ssm-vpnjantit.com:ssm@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
@@ -14,9 +14,6 @@ ssh://ssm-vpnjantit.com:ssm@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
 --------
 
 🇩🇪
-Germany 5
-ssh://alirezaab-vpnjantit.com:alirezaab@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205%20(Alireza)
-
 Germany 5
 ssh://ssm-vpnjantit.com:ssm@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
 
