@@ -13,16 +13,18 @@ ssh://ssm-vpnjantit.com:ssm@premiusa1.vpnjz.com:81#🇺🇸%20USA%201%20Premium
 
 USA 2 Premium
 ssh://ssm-vpnjantit.com:ssm@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
-
 --------
-
 🇩🇪
 Germany 5
 ssh://ssm-vpnjantit.com:ssm@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
-
+--------
+🇫🇮
+Finland 2
+ssh://ssm-vpnjantit.com:ssm@fi3.vpnjz.com:81#🇺🇸%20Finland%202
+--------
 🇯🇵
 ssh://ssm-vpnjantit.com:ssm@premijp1.vpnjz.com:81#🇯🇵%20Japan%201%20Premium
-
+--------
 🇸🇬
 SG 2 freevpn.us
 ssh://freevpn.us-sg2:sg2@ssh-sg-2.vpnv.cc:443#🇸🇬%20SG%202%20freevpn.us
