@@ -31,7 +31,7 @@ ssh://ssm-vpnjantit.com:ssm@fr5.vpnjz.com:81#🇫🇷%20France%205
 --------
 🇺🇦
 Ukraine 1
-ssh://ssm-vpnjantit.com:ssm@ua1.vpnjz.com:81#🇫🇷%20Ukraine%201
+ssh://ssm-vpnjantit.com:ssm@ua1.vpnjz.com:81#🇺🇦%20Ukraine%201
 --------
 🇯🇵
 ssh://ssm-vpnjantit.com:ssm@premijp1.vpnjz.com:81#🇯🇵%20Japan%201%20Premium
