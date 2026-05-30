@@ -1,0 +1,38 @@
+🇺🇸
+USA 8
+ssh://wac-vpnjantit.com:wac@usa8.vpnjz.com:81#🇺🇸%20USA%208
+
+USA 9
+ssh://wac-vpnjantit.com:wac@usa9.vpnjz.com:81#🇺🇸%20USA%209
+
+USA 12
+ssh://wac-vpnjantit.com:wac@usa12.vpnjz.com:81#🇺🇸%20USA%2012
+
+USA 1 Premium
+ssh://wac-vpnjantit.com:wac@premiusa1.vpnjz.com:81#🇺🇸%20USA%201%20Premium
+
+USA 2 Premium
+ssh://wac-vpnjantit.com:wac@premiusa2.vpnjz.com:81#🇺🇸%20USA%202%20Premium
+--------
+🇩🇪
+Germany 5
+ssh://wac-vpnjantit.com:wac@gr5.vpnjz.com:81#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
+--------
+🇫🇮
+Finland 2
+ssh://wac-vpnjantit.com:wac@fi2.vpnjz.com:81#🇫🇮%20Finland%202
+--------
+🇫🇷
+France 4
+ssh://wac-vpnjantit.com:wac@fr4.vpnjz.com:81#🇫🇷%20France%204
+
+France 5
+ssh://wac-vpnjantit.com:wac@fr5.vpnjz.com:81#🇫🇷%20France%205
+--------
+🇺🇦
+Ukraine 1
+ssh://wac-vpnjantit.com:wac@ua1.vpnjz.com:81#🇺🇦%20Ukraine%201
+--------
+🇯🇵
+ssh://wac-vpnjantit.com:wac@premijp1.vpnjz.com:81#🇯🇵%20Japan%201%20Premium
+--------
