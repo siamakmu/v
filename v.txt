@@ -1,3 +1,6 @@
+socks://Og@192.168.100.201:1085#Softether
+socks://Og==@192.168.100.201:1085?type=tcp#Softether
+
 🇺🇸
 USA 8
 ssh://ssm-vpnjantit.com:ssm@usa8.vpnjz.com:81#🇺🇸%20USA%208
