@@ -1,3 +1,4 @@
+socks://Og@192.168.100.201:1085#Softether
 🇺🇸
 USA 8
 ssh://wac-vpnjantit.com:wac@usa8.vpnjz.com:81#🇺🇸%20USA%208
